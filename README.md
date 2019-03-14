@@ -1,7 +1,8 @@
 # Implementation-of-Some-Algorithms
-Selected programming of Stats231B Methods of Machine Learning at UCLA, Winter 2019. 
+Selected programming projects of Stats231B Methods of Machine Learning at UCLA, Winter 2019. 
 
 1. Gaussian Kernal SVM
 2. XGBoost
 3. Variational Autoencoder (VAE)
 4. Generative Adversarial Networks (GAN)
+5. Deep Reinforcement Learning: Deep Q-Network
